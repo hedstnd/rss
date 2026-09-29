@@ -1,7 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-<channel><atom:link href="https://jkeds.dev/rss/dson.rss" rel="self" type="application/rss+xml"/><title>Dickinson Athletics</title>
+<channel><title>Dickinson Athletics</title>
 <link>https://dickinsonathletics.com</link>
-<description>Dickinson</description><item>
+<description>Dickinson</description><atom:link href="https://jkeds.dev/rss/dson.rss" rel="self" type="application/rss+xml"/>
+<item>
 <title>MGOLF &#124; Dickinson &#124; DIII Northeast Elite - Day Two &#124; 12th of 18 (308-299=607)  Mon</title>
 <pubDate>Mon, 28 Sep 2026 04:00:00 GMT</pubDate>
 </item>
