@@ -1,0 +1,37 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel><title>Dickinson Athletics</title>
+<link>https://dickinsonathletics.com</link>
+<description>Dickinson</description>
+<atom:link href="https://jkeds.dev/rss/msoc.rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>MSOC &#124; Muhlenberg &#124; Swarthmore &#124; 4:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95350</link>
+<guid>https://dickinsonathletics.com/95350</guid>
+<pubDate>Wed, 30 Sep 2026 20:00:00 GMT</pubDate>
+</item>
+<item>
+<title>MSOC &#124; Gettysburg &#124; Dickinson &#124; 6:00 P.M. Today &#124; Watch on RDSN</title>
+<link>https://dickinsonathletics.com/95199</link>
+<guid>https://dickinsonathletics.com/95199</guid>
+<pubDate>Wed, 30 Sep 2026 22:00:00 GMT</pubDate>
+</item>
+<item>
+<title>MSOC &#124; McDaniel &#124; Johns Hopkins &#124; 7:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95299</link>
+<guid>https://dickinsonathletics.com/95299</guid>
+<pubDate>Wed, 30 Sep 2026 23:00:00 GMT</pubDate>
+</item>
+<item>
+<title>MSOC &#124; Franklin &#38; Marshall &#124; Washington College &#124; 7:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95249</link>
+<guid>https://dickinsonathletics.com/95249</guid>
+<pubDate>Wed, 30 Sep 2026 23:00:00 GMT</pubDate>
+</item>
+<item>
+<title>MSOC &#124; Haverford &#124; Ursinus &#124; 7:30 P.M. Today</title>
+<link>https://dickinsonathletics.com/95297</link>
+<guid>https://dickinsonathletics.com/95297</guid>
+<pubDate>Wed, 30 Sep 2026 23:30:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
