@@ -4,46 +4,52 @@
 <description>Dickinson</description>
 <atom:link href="https://jkeds.dev/rss/dson.rss" rel="self" type="application/rss+xml"/>
 <item>
-<title>MGOLF &#124; Dickinson &#124; DIII Northeast Elite - Day Two &#124; 12th of 18 (308-299=607)  Mon</title>
-<link>https://dickinsonathletics.com</link>
-<guid isPermaLink="false">https://dickinsonathletics.com/96067</guid>
-<pubDate>Mon, 28 Sep 2026 04:00:00 GMT</pubDate>
-</item>
-<item>
-<title>WTEN &#124; Dickinson &#124; ITA Regionals - Day Four  Mon</title>
-<link>https://dickinsonathletics.com</link>
-<guid isPermaLink="false">https://dickinsonathletics.com/96278</guid>
-<pubDate>Mon, 28 Sep 2026 04:00:00 GMT</pubDate>
-</item>
-<item>
-<title>MGOLF &#124; Dickinson &#124; Susquehanna University Fall Invitational "B Team" &#124; All Day Today</title>
-<link>https://dickinsonathletics.com</link>
-<guid isPermaLink="false">https://dickinsonathletics.com/96069</guid>
+<title>MGOLF &#124; Dickinson &#124; Susquehanna University Fall Invitational "B Team" &#124; All Day Tue</title>
+<link>https://dickinsonathletics.com/96069</link>
+<guid>https://dickinsonathletics.com/96069</guid>
 <pubDate>Tue, 29 Sep 2026 04:00:00 GMT</pubDate>
 </item>
 <item>
-<title>WVB &#124; Alvernia  &#124; Dickinson &#124; 7:00 P.M. Today &#124; Watch on RDSN</title>
-<link>https://dickinsonathletics.com</link>
-<guid isPermaLink="false">https://dickinsonathletics.com/95650</guid>
+<title>WVB &#124; Alvernia  0 &#124; <b>Dickinson 3</b> &#124;  W 3-0  Tue &#124; Watch on RDSN</title>
+<link>https://dickinsonathletics.com/95650</link>
+<guid>https://dickinsonathletics.com/95650</guid>
 <pubDate>Tue, 29 Sep 2026 23:00:00 GMT</pubDate>
 </item>
 <item>
-<title>FH &#124; Johns Hopkins &#124; Dickinson &#124; 4:00 P.M. Wed &#124; Watch on RDSN</title>
-<link>https://dickinsonathletics.com</link>
-<guid isPermaLink="false">https://dickinsonathletics.com/95015</guid>
+<title>FH &#124; Johns Hopkins &#124; Dickinson &#124; 4:00 P.M. Today &#124; Watch on RDSN</title>
+<link>https://dickinsonathletics.com/95015</link>
+<guid>https://dickinsonathletics.com/95015</guid>
 <pubDate>Wed, 30 Sep 2026 20:00:00 GMT</pubDate>
 </item>
 <item>
-<title>WSOC &#124; Dickinson &#124; Susquehanna  &#124; 5:00 P.M. Wed</title>
-<link>https://dickinsonathletics.com</link>
-<guid isPermaLink="false">https://dickinsonathletics.com/95426</guid>
+<title>WSOC &#124; Dickinson &#124; Susquehanna  &#124; 5:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95426</link>
+<guid>https://dickinsonathletics.com/95426</guid>
 <pubDate>Wed, 30 Sep 2026 21:00:00 GMT</pubDate>
 </item>
 <item>
-<title>MSOC &#124; Gettysburg &#124; Dickinson &#124; 6:00 P.M. Wed &#124; Watch on RDSN</title>
-<link>https://dickinsonathletics.com</link>
-<guid isPermaLink="false">https://dickinsonathletics.com/95199</guid>
+<title>MSOC &#124; Gettysburg &#124; Dickinson &#124; 6:00 P.M. Today &#124; Watch on RDSN</title>
+<link>https://dickinsonathletics.com/95199</link>
+<guid>https://dickinsonathletics.com/95199</guid>
 <pubDate>Wed, 30 Sep 2026 22:00:00 GMT</pubDate>
+</item>
+<item>
+<title>MGOLF &#124; Dickinson &#124; Stevenson University Fall Invitational "B Team" &#124; All Day Thu</title>
+<link>https://dickinsonathletics.com/96068</link>
+<guid>https://dickinsonathletics.com/96068</guid>
+<pubDate>Thu, 01 Oct 2026 04:00:00 GMT</pubDate>
+</item>
+<item>
+<title>MTEN &#124; Dickinson &#124; ITA Regionals - Day One &#124; All Day Thu</title>
+<link>https://dickinsonathletics.com/96185</link>
+<guid>https://dickinsonathletics.com/96185</guid>
+<pubDate>Thu, 01 Oct 2026 04:00:00 GMT</pubDate>
+</item>
+<item>
+<title>WVB &#124; DeSales  &#124; Dickinson &#124; 7:00 P.M. Thu &#124; Watch on RDSN</title>
+<link>https://dickinsonathletics.com/95652</link>
+<guid>https://dickinsonathletics.com/95652</guid>
+<pubDate>Thu, 01 Oct 2026 23:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
