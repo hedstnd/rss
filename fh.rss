@@ -2,36 +2,43 @@
 <channel><title>Dickinson Athletics</title>
 <link>https://dickinsonathletics.com</link>
 <description>Dickinson</description>
+<ttl>5</ttl>
 <atom:link href="https://jkeds.dev/rss/fh.rss" rel="self" type="application/rss+xml"/>
 <item>
-<title>FH &#124; Washington College &#124; Bryn Mawr &#124; 4:00 P.M. Today</title>
-<link>https://dickinsonathletics.com/94993</link>
-<guid>https://dickinsonathletics.com/94993</guid>
-<pubDate>Wed, 30 Sep 2026 20:00:00 GMT</pubDate>
+<title>FH &#124; Franklin &#38; Marshall &#124; SUNY Cortland &#124; 12:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95049</link>
+<guid>https://dickinsonathletics.com/95049</guid>
+<pubDate>Sat, 03 Oct 2026 16:00:00 GMT</pubDate>
 </item>
 <item>
-<title>FH &#124; Johns Hopkins &#124; Dickinson &#124; 4:00 P.M. Today &#124; Watch on RDSN</title>
-<link>https://dickinsonathletics.com/95015</link>
-<guid>https://dickinsonathletics.com/95015</guid>
-<pubDate>Wed, 30 Sep 2026 20:00:00 GMT</pubDate>
+<title>FH &#124; Swarthmore &#124; Gettysburg &#124; 1:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95081</link>
+<guid>https://dickinsonathletics.com/95081</guid>
+<pubDate>Sat, 03 Oct 2026 17:00:00 GMT</pubDate>
 </item>
 <item>
-<title>FH &#124; McDaniel &#124; Franklin &#38; Marshall &#124; 7:00 P.M. Today</title>
-<link>https://dickinsonathletics.com/95044</link>
-<guid>https://dickinsonathletics.com/95044</guid>
-<pubDate>Wed, 30 Sep 2026 23:00:00 GMT</pubDate>
+<title>FH &#124; Ursinus &#124; Johns Hopkins &#124; 1:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95119</link>
+<guid>https://dickinsonathletics.com/95119</guid>
+<pubDate>Sat, 03 Oct 2026 17:00:00 GMT</pubDate>
 </item>
 <item>
-<title>FH &#124; Muhlenberg &#124; Haverford &#124; 7:00 P.M. Today</title>
-<link>https://dickinsonathletics.com/95098</link>
-<guid>https://dickinsonathletics.com/95098</guid>
-<pubDate>Wed, 30 Sep 2026 23:00:00 GMT</pubDate>
+<title>FH &#124; Washington College &#124; Muhlenberg &#124; 1:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95159</link>
+<guid>https://dickinsonathletics.com/95159</guid>
+<pubDate>Sat, 03 Oct 2026 17:00:00 GMT</pubDate>
 </item>
 <item>
-<title>FH &#124; Ursinus &#124; Swarthmore &#124; 7:00 P.M. Today</title>
-<link>https://dickinsonathletics.com/95172</link>
-<guid>https://dickinsonathletics.com/95172</guid>
-<pubDate>Wed, 30 Sep 2026 23:00:00 GMT</pubDate>
+<title>FH &#124; Bryn Mawr &#124; Dickinson &#124; 1:00 P.M. Today &#124; Watch on RDSN</title>
+<link>https://dickinsonathletics.com/95008</link>
+<guid>https://dickinsonathletics.com/95008</guid>
+<pubDate>Sat, 03 Oct 2026 17:00:00 GMT</pubDate>
+</item>
+<item>
+<title>FH &#124; Haverford &#124; McDaniel &#124; 5:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95112</link>
+<guid>https://dickinsonathletics.com/95112</guid>
+<pubDate>Sat, 03 Oct 2026 21:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

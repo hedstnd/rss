@@ -1,0 +1,44 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel><title>Dickinson Athletics</title>
+<link>https://dickinsonathletics.com</link>
+<description>Dickinson</description>
+<ttl>5</ttl>
+<atom:link href="https://jkeds.dev/rss/wsoc.rss" rel="self" type="application/rss+xml"/>
+<item>
+<title>WSOC &#124; Eastern &#124; Haverford &#124; 12:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95501</link>
+<guid>https://dickinsonathletics.com/95501</guid>
+<pubDate>Sat, 03 Oct 2026 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>WSOC &#124; Swarthmore &#124; McDaniel &#124; 12:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95540</link>
+<guid>https://dickinsonathletics.com/95540</guid>
+<pubDate>Sat, 03 Oct 2026 16:00:00 GMT</pubDate>
+</item>
+<item>
+<title>WSOC &#124; Johns Hopkins &#124; Bryn Mawr &#124; 1:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95394</link>
+<guid>https://dickinsonathletics.com/95394</guid>
+<pubDate>Sat, 03 Oct 2026 17:00:00 GMT</pubDate>
+</item>
+<item>
+<title>WSOC &#124; Ursinus &#124; Muhlenberg &#124; 3:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95555</link>
+<guid>https://dickinsonathletics.com/95555</guid>
+<pubDate>Sat, 03 Oct 2026 19:00:00 GMT</pubDate>
+</item>
+<item>
+<title>WSOC &#124; Franklin &#38; Marshall &#124; Dickinson &#124; 3:30 P.M. Today &#124; Watch on RDSN</title>
+<link>https://dickinsonathletics.com/95412</link>
+<guid>https://dickinsonathletics.com/95412</guid>
+<pubDate>Sat, 03 Oct 2026 19:30:00 GMT</pubDate>
+</item>
+<item>
+<title>WSOC &#124; Salisbury &#124; Gettysburg &#124; 4:00 P.M. Today</title>
+<link>https://dickinsonathletics.com/95476</link>
+<guid>https://dickinsonathletics.com/95476</guid>
+<pubDate>Sat, 03 Oct 2026 20:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
