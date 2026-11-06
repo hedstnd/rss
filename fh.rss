@@ -5,16 +5,22 @@
 <ttl>5</ttl>
 <atom:link href="https://jkeds.dev/rss/fh.rss" rel="self" type="application/rss+xml"/>
 <item>
-<title>FH &#124; Dickinson &#124; Ursinus &#124; 6:00 P.M. Today</title>
-<link>https://dickinsonathletics.com/97427</link>
-<guid>https://dickinsonathletics.com/97427</guid>
-<pubDate>Tue, 03 Nov 2026 23:00:00 GMT</pubDate>
+<title>FH &#124; Franklin &#38; Marshall 1 &#124; <b>Johns Hopkins 2</b> &#124;  Final  Thu</title>
+<link>https://dickinsonathletics.com/97429</link>
+<guid>https://dickinsonathletics.com/97429</guid>
+<pubDate>Thu, 05 Nov 2026 23:00:00 GMT</pubDate>
 </item>
 <item>
-<title>FH &#124; Haverford &#124; Franklin &#38; Marshall &#124; 7:00 P.M. Today</title>
-<link>https://dickinsonathletics.com/97426</link>
-<guid>https://dickinsonathletics.com/97426</guid>
-<pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+<title>FH &#124; Ursinus 1 &#124; <b>Swarthmore 2</b> &#124;  Final  Thu</title>
+<link>https://dickinsonathletics.com/97432</link>
+<guid>https://dickinsonathletics.com/97432</guid>
+<pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+<title>FH &#124; Swarthmore &#124; Johns Hopkins &#124; 12:00 P.M. Sat</title>
+<link>https://dickinsonathletics.com/97473</link>
+<guid>https://dickinsonathletics.com/97473</guid>
+<pubDate>Sat, 07 Nov 2026 17:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
